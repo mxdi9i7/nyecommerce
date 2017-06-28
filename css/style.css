@@ -968,7 +968,7 @@ ul.navbar-nav > li.header-ticket:hover > a:after{
 	width: 100%;
 	left: 0;
 	z-index: 0;
-	opacity: .4;
+	opacity: 1;
 }
 
 
